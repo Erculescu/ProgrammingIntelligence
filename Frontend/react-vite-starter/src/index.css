@@ -1,0 +1,11 @@
+html{
+    --background-color: white;
+    --main-color:#1068b0;
+    --main-accent: #022280;
+    --main-border: #d1d1d1;
+    --main-hover: #e3e3e7;
+}
+
+body{
+    margin: 0;
+}
